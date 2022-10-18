@@ -1,0 +1,4 @@
+main Cherry {
+    color: red;
+    weight: 10;
+}
